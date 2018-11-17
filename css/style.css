@@ -1,0 +1,21 @@
+.body {
+  background-color: black;
+}
+
+.h1 {
+  font-family: Veranda;
+  font-weight: normal;
+  font-size: px;
+  color: white;
+  text-align: center;
+}
+
+.a {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.p {
+  color: gray;
+}
